@@ -1,0 +1,6 @@
+Brief Introduction About Myself
+---
+
+Hello, my name is Khadija. I am currently learning the fundamentals of Git and GitHub as part of a graded project assignment to gain a practical understanding of version control. My goal is to apply these skills to manage my future coding projects efficiently.
+
+My immediate objective is to master the synchronization process between local and remote repositories, and confidently use commands like 'git add' and 'git commit' to save my work in an organized manner.
