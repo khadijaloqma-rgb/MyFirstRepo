@@ -1,2 +1,3 @@
-This is my first repository created as part of a GitHub learning task 
-Welcome to the project phase of your Git and GitHub learning journey! In this project, you’ll put into practice everything you’ve learned throughout the course. You’ll work on tasks that will guide you through essential version control concepts, such as forking repositories, creating branches, collaborating with others through pull requests, and managing repositories, both locally and remotely. These tasks are designed for absolute beginners and are applicable to learners from all disciplines—not just software developers or data scientists.
+This is my first repository created as part of a GitHub learning task.
+
+
