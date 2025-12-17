@@ -1,0 +1,1 @@
+In this cours I learned how to use Git terminal commands and manage repositories.
