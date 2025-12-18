@@ -1,1 +1,1 @@
-In this cours I learned how to use Git terminal commands and manage repositories.
+I have learned how to use Git to clone and push files.This course is helping me understand version control better.
