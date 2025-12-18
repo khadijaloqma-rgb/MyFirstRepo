@@ -1,1 +1,1 @@
-I have learned how to use Git to clone and push files.This course is helping me understand version control better.
+In this course, I have learned the basics of Git and GitHub. I now know how to clone a repository, make changes locally, and push them back to the server. This is a very helpful skill for my future as a developer.
